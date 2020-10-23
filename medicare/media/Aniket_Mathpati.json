@@ -1,0 +1,76 @@
+{
+    "report": [
+        {
+            "23-10-2020": {
+                "tests": [
+                    {
+                        "name": "covid",
+                        "result": "+ve",
+                        "comment": "ok"
+                    },
+                    {
+                        "name": "covid",
+                        "result": "+ve",
+                        "comment": "ok"
+                    },
+                    {
+                        "name": "sugar",
+                        "result": "33",
+                        "comment": "kkk"
+                    }
+                ],
+                "medicines": [
+                    {
+                        "name": "hydroxychloroquine",
+                        "comment": "before lunch"
+                    },
+                    {
+                        "name": "acarbose (Precose)",
+                        "comment": "before lunch"
+                    },
+                    {
+                        "name": "acarbose (Precose)",
+                        "comment": "After lunch"
+                    }
+                ],
+                "next visit": "2020-10-22"
+            }
+        },
+        {
+            "23-10-2020": {
+                "tests": [
+                    {
+                        "name": "covid",
+                        "result": "+ve",
+                        "comment": "ok"
+                    },
+                    {
+                        "name": "sugar",
+                        "result": "+ve",
+                        "comment": "ok"
+                    },
+                    {
+                        "name": "sugar",
+                        "result": "3",
+                        "comment": "ok"
+                    }
+                ],
+                "medicines": [
+                    {
+                        "name": "benazepril (Lotensin)",
+                        "comment": "before lunch"
+                    },
+                    {
+                        "name": "acarbose (Precose)",
+                        "comment": "before lunch"
+                    },
+                    {
+                        "name": "hydroxychloroquine",
+                        "comment": "before lunch"
+                    }
+                ],
+                "next visit": "2020-10-24"
+            }
+        }
+    ]
+}

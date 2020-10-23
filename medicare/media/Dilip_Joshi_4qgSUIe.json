@@ -1,0 +1,76 @@
+{
+    "report": [
+        {
+            "23-10-2020": {
+                "tests": [
+                    {
+                        "name": "sugar",
+                        "result": "+ve",
+                        "comment": "ok"
+                    },
+                    {
+                        "name": "covid",
+                        "result": "+ve",
+                        "comment": "ok"
+                    },
+                    {
+                        "name": "covid",
+                        "result": "-ve",
+                        "comment": "ok"
+                    }
+                ],
+                "medicines": [
+                    {
+                        "name": "hydroxychloroquine",
+                        "comment": "before lunch"
+                    },
+                    {
+                        "name": "acarbose (Precose)",
+                        "comment": "after lunch"
+                    },
+                    {
+                        "name": "benazepril (Lotensin)",
+                        "comment": "before lunch"
+                    }
+                ],
+                "next visit": "1970-01-01"
+            }
+        },
+        {
+            "23-10-2020": {
+                "tests": [
+                    {
+                        "name": "sugar",
+                        "result": "+ve",
+                        "comment": "ok"
+                    },
+                    {
+                        "name": "covid",
+                        "result": "+ve",
+                        "comment": "ok"
+                    },
+                    {
+                        "name": "sugar",
+                        "result": "+ve",
+                        "comment": "ok"
+                    }
+                ],
+                "medicines": [
+                    {
+                        "name": "hydroxychloroquine",
+                        "comment": "before lunch"
+                    },
+                    {
+                        "name": "acarbose (Precose)",
+                        "comment": "before lunch"
+                    },
+                    {
+                        "name": "benazepril (Lotensin)",
+                        "comment": "before lunch"
+                    }
+                ],
+                "next visit": "2020-10-24"
+            }
+        }
+    ]
+}
